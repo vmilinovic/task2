@@ -1,0 +1,12 @@
+.error {
+	color: red;
+}
+.descriptionVehicle {
+	color: black;
+	background-color: lightgray;
+	border: 1px solid gray
+}
+#movieList    {
+	color: gray;
+	font-size: 20px
+}
